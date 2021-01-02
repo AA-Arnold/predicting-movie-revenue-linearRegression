@@ -8,3 +8,4 @@ Splitted into a 70/30 ratio
 Numpy
 Sklearn
 Matplotlib
+Pandas
